@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Triet M. Thai
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Triet
+last_name: Thai
 
 # Status emoji
 status:
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Research Assistant
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Oxford University Clinical Research Unit
+    url: https://www.oucru.org/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -142,12 +142,10 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: Vietnamese
     percent: 100
-  - name: Chinese
+  - name: English
     percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -183,4 +181,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Triet M.Thai is a Research Assistant in the Tuberculosis Group at Oxford University Clinical Research Unit. His research interests include Data Science, Bioinformatics, and Explainable AI in Biology. His aims are to create and leverage state-of-the-art methods to understand biological insights from multi-omics and bioimage data.
