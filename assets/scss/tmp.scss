@@ -1,13 +1,9 @@
-// Light mode
+/* Light mode background color */
 :root {
-  --theme-background: #f8f9fa;   // light background color
-  --theme-surface: #ffffff;      // card or section background
-  --theme-primary: #005f73;      // primary theme color
+  --theme-background: #eceff4;
 }
 
-// Dark mode
+/* Dark mode background color */
 [data-theme="dark"] {
-  --theme-background: #121212;   // dark background color
-  --theme-surface: #1e1e1e;      // dark card/section background
-  --theme-primary: #94d2bd;      // dark theme primary color
+  --theme-background: #4c566a;
 }
