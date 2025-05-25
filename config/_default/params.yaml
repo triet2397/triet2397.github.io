@@ -11,7 +11,8 @@ appearance:
 params:
   custom_css:
     - custom.css
-
+  custom_scss:
+    - custom.scss
 # SEO
 marketing:
   seo:
