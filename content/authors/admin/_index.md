@@ -10,8 +10,8 @@ first_name: Triet
 last_name: Thai
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -59,10 +59,10 @@ education:
     summary: |
       GPA: 3.7/4.0
 
-      Thesis on _Integrating image features with convolutional sequence-to-sequence network for multilingual visual question answering_. Supervised by [MSc Son T.Luu](https://example.com). Published in Journal of Computer Science and Cybernetics
+      Thesis on _Integrating image features with convolutional sequence-to-sequence network for multilingual visual question answering_. Published in Journal of Computer Science and Cybernetics.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: 'https://doi.org/10.15625/1813-9663/18155'
 
   # - area: MEng Artificial Intelligence
   #   institution: Massachusetts Institute of Technology
@@ -94,10 +94,11 @@ work:
     date_start: 2023-08-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Main tasks include:
+      - Multi-omics analysis Genomics Transciptomics, Metabolomics
+      - MRI analysis
+      - Data Visualization
+      - Report
   
   # - position: Backend Software Engineer
   #   company_name: X
