@@ -16,7 +16,7 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
+        text: My Resumé
         url: uploads/resume.pdf
     design:
       css_class: dark
@@ -30,6 +30,8 @@ sections:
           size: cover
           position: center
           parallax: false
+      margin-left: 4rem;
+      margin-right: 4rem;
   - block: markdown
     content:
       title: '📚 My Research'
