@@ -20,10 +20,23 @@ h1, h2, h3, h4, h5, h6 {
   margin-left: "4rem";
   margin-right: "4rem";
 }
+
 [data-theme="dark"] {
   --theme-background: #a43535;
   --theme-on-background: #eceff4;
   --theme-primary: #88c0d0;
   --theme-secondary: #5e81ac;
   --theme-muted: #4c566a;
+}
+
+/* Custom margin for resume-biography-3 block */
+.wide-margin {
+  padding-left: 5rem;
+  padding-right: 5rem;
+}
+
+@media (min-width: 768px) {
+  .wide-margin {
+    max-width: 100%;
+  }
 }

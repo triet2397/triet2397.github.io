@@ -19,9 +19,7 @@ sections:
         text: My Resumé
         url: uploads/resume.pdf
     design:
-      css_class: dark
-      margin-left: '8rem'
-      margin-right: '8rem'
+      css_class: wide-margin
       background:
         color: black
         image:
