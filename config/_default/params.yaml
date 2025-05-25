@@ -5,13 +5,13 @@
 
 # Appearance
 appearance:
-  mode: system
-  color: blue
+  mode: dark
+  color: cyan
 
 params:
   custom_css:
     - custom.css
-    
+
 # SEO
 marketing:
   seo:
