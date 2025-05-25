@@ -16,7 +16,10 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--theme-font-heading);
 } */
-
+.content {
+  margin-left: 4rem;
+  margin-right: 4rem;
+}
 [data-theme="dark"] {
   --theme-background: #a43535;
   --theme-on-background: #eceff4;
