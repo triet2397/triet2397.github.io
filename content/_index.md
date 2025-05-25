@@ -20,6 +20,8 @@ sections:
         url: uploads/resume.pdf
     design:
       css_class: dark
+      margin-left: '8rem'
+      margin-right: '8rem'
       background:
         color: black
         image:
@@ -30,8 +32,7 @@ sections:
           size: cover
           position: center
           parallax: false
-      margin-left: 4rem;
-      margin-right: 4rem;
+
   - block: markdown
     content:
       title: '📚 My Research'
