@@ -1,1 +1,12 @@
-@import "fonts";
+:root {
+  --theme-font-sans: 'Times New Roman', Times, serif;
+  --theme-font-heading: 'Times New Roman', Times, serif;
+}
+
+body {
+  font-family: var(--theme-font-sans);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--theme-font-heading);
+}
