@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: dark
-  color: cyan
+  color: blue
 
 params:
   custom_css:
