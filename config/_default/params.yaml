@@ -8,6 +8,10 @@ appearance:
   mode: system
   color: tmp
 
+params:
+  custom_css:
+    - custom.scss
+
 # SEO
 marketing:
   seo:
