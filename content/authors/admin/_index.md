@@ -49,7 +49,7 @@ profiles:
 interests:
   - Bioinformatics
   - Biomedical Data Science
-  - Artificial Intelligence
+  - Explanable Artificial Intelligence
 
 education:
   - area: BSc Data Science
@@ -88,7 +88,7 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Research Assistant
-    company_name: GenCoin
+    company_name: Oxford University Clinical Research Unit (OUCRU)
     company_url: ''
     company_logo: ''
     date_start: 2023-08-01
@@ -187,4 +187,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Triet M. Thai is a Research Assistant in Bioinformatics at Tuberculosis Group, Oxford University Clinical Research Unit (OUCRU). His research interests include bioinformatics, biomedical data sciene and explainable AI. He aims for uncovering the complexity of biological systems and disease mechanisms through integrative multi-omics and advanced bioimage analysis using AI and data science. His ultimate goal is to translate these insights into meaningful improvements in public health and community well-being.
