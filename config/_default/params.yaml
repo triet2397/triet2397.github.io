@@ -9,8 +9,7 @@ appearance:
   color: tmp
 
 params:
-  custom_css:
-    - tmp.scss
+  custom_css: tmp.scss
 
 # SEO
 marketing:
