@@ -16,7 +16,7 @@ defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
-
+theme = "hermit-v2"
 ############################
 ## ADVANCED
 ############################
@@ -54,5 +54,3 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
-
-theme: hermit-v2
