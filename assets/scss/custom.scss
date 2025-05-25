@@ -1,6 +1,12 @@
+@font-face {
+  font-family: 'Pixel Code';
+  src: url('/fonts/PixelCode-Medium.ttf') format('truetype');
+  font-display: swap;
+}
+
 :root {
-  --theme-font-sans: 'Times New Roman', Times, serif;
-  --theme-font-heading: 'Times New Roman', Times, serif;
+  --theme-font-sans: 'Pixel Code', monospace;
+  --theme-font-heading: 'Pixel Code', monospace;
 }
 
 body {
