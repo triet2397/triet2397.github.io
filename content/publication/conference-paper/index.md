@@ -6,7 +6,9 @@ title: 'UIT-ViCoV19QA: A Dataset for COVID-19 Community-based Question Answering
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Ngan Chu Thao-Ha
+  - Anh Vo
+  - Son T. Luu
 
 # # Author notes (optional)
 # author_notes:
