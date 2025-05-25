@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: system
-  color: tmp
+  color: purple
 
 params:
   custom_css:
