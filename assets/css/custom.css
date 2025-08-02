@@ -37,6 +37,12 @@ h1, h2, h3, h4, h5, h6 {
   }
 } */
 
+/* Increase left and right margins of main content */
+.main {
+  margin-left: 4rem;
+  margin-right: 4rem;
+}
+
 .publication .article-title a:hover {
   text-decoration: underline; /* or keep none if no hover effect */
 }

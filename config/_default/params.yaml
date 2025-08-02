@@ -8,9 +8,12 @@ appearance:
   mode: dark
   color: blue
 
+# params:
+#   custom_css:
+#     - css/custom.css
+
 params:
-  custom_css:
-    - css/custom.css
+  customCSS: ["css/custom.css"]
 
 # SEO
 marketing:
