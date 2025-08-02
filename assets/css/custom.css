@@ -38,10 +38,10 @@ h1, h2, h3, h4, h5, h6 {
 } */
 
 /* Increase left and right margins of main content */
-#section-resume-biography-3 {
-  margin-left: 50rem;
-  margin-right: 50rem;
-}
+/* #section-resume-biography-3 {
+  margin-left: 1rem;
+  margin-right: 1rem;
+} */
 
 .publication .article-title a:hover {
   text-decoration: underline; /* or keep none if no hover effect */
