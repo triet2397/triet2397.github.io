@@ -39,7 +39,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .bio-text {
   /* margin-left: 10%; */
-  margin-right: 10%;
+  margin-right: -10%;
 }
 
 .publication .article-title a:hover {
