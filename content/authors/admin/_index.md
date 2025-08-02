@@ -40,11 +40,11 @@ profiles:
   - icon: brands/github
     url: https://github.com/triet2397
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/triet2397/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=b__ugOkAAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0005-0367-5403
 
 interests:
   - Bioinformatics
