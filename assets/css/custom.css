@@ -47,6 +47,14 @@ h1, h2, h3, h4, h5, h6 {
   margin-right: -10%;
 }
 
+#section-resume-biography-3
+  element.style {
+      padding-top: 0rem;
+      padding-right: 0px;
+      padding-bottom: 0rem;
+      padding-left: 0px;
+  }
+
 .publication .article-title a:hover {
   text-decoration: underline; /* or keep none if no hover effect */
 }
