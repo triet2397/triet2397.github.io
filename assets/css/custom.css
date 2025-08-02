@@ -1,4 +1,4 @@
-@font-face {
+/* @font-face {
   font-family: 'Pixel Code';
   src: url('/fonts/PixelCode-Medium.ttf') format('truetype');
   font-display: swap;
@@ -9,17 +9,13 @@
   --theme-font-heading: 'Pixel Code', monospace;
 }
 
-/* body {
-  font-family: var(--theme-font-sans);
-} */
-
 body {
-  font-family: 'Times New Roman', Times, serif;
+  font-family: var(--theme-font-sans);
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--theme-font-heading);
-}
+} */
 
 /* [data-theme="dark"] {
   --theme-background: #a43535;
@@ -31,8 +27,8 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Custom margin for resume-biography-3 block */
 .wide-margin {
-  padding-left: '1rem';
-  padding-right: '1rem';
+  padding-left: '8rem';
+  padding-right: '8rem';
 }
 
 @media (min-width: 768px) {
