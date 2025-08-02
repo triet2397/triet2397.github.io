@@ -37,9 +37,9 @@ h1, h2, h3, h4, h5, h6 {
   }
 } */
 
-/* Increase left and right margins of main content */
-.section-subheading mb-3 {
-  margin-right: 6rem;
+#about {
+  margin-left: 10%;
+  margin-right: 10%;
 }
 
 .publication .article-title a:hover {
