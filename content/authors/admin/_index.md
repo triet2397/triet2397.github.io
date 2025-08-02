@@ -186,4 +186,4 @@ awards:
 
 ## About Me
 
-Triet M. Thai is a Research Assistant in Bioinformatics at Tuberculosis Group, Oxford University Clinical Research Unit (OUCRU). His work aims to uncover the complexity of biological systems and disease mechanisms through integrative multi-omics and advanced bioimage analysis using data science and XAI. His ultimate goal is to translate these insights into meaningful improvements in public health and community well-being.
+I am currently a researcher in Bioinformatics at Oxford University Clinical Research Unit (OUCRU), Tuberculosis Group. My work aims to uncover the complexity of biological systems and disease mechanisms through integrative multi-omics and bio-imaging analysis using statistical modeling, data science and explainable AI — with the ultimate goal of translating these insights into meaningful improvements in public health and community well-being.
