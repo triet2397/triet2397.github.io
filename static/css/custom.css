@@ -9,8 +9,12 @@
   --theme-font-heading: 'Pixel Code', monospace;
 }
 
-body {
+/* body {
   font-family: var(--theme-font-sans);
+} */
+
+body {
+  font-family: 'Times New Roman', Times, serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
