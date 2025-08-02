@@ -53,7 +53,7 @@ interests:
 
 education:
   - area: BSc Data Science
-    institution: Vietnam National University HCMC<br>University of Information Technology
+    institution: Vietnam National University HCMC               University of Information Technology
     date_start: 2019-08-01
     date_end: 2023-07-31
     summary: |
