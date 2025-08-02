@@ -1,4 +1,6 @@
-@font-face {
+/*This code will not work, go to static/custom.css/*
+
+/* @font-face {
   font-family: 'Pixel Code';
   src: url('/fonts/PixelCode-Medium.ttf') format('truetype');
   font-display: swap;
@@ -15,7 +17,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--theme-font-heading);
-}
+} */
 
 /* [data-theme="dark"] {
   --theme-background: #a43535;
