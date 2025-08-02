@@ -38,7 +38,7 @@ h1, h2, h3, h4, h5, h6 {
 } */
 
 /* Increase left and right margins of main content */
-.bio-text {
+.page-body {
   margin-left: 10rem;
   margin-right: 10rem;
 }
