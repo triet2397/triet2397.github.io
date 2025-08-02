@@ -28,7 +28,7 @@ h1, h2, h3, h4, h5, h6 {
 } */
 
 /* Custom margin for resume-biography-3 block */
-.wide-margin {
+/* .wide-margin {
   padding-left: '8rem';
   padding-right: '8rem';
 }
@@ -40,11 +40,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* Increase left and right margins of main content */
-.main {
+/*.main {
   margin-left: 10rem;
   margin-right: 10rem;
 }
 
 .publication .article-title a:hover {
   text-decoration: underline; /* or keep none if no hover effect */
-}
+} */
