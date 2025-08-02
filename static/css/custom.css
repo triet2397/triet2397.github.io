@@ -1,4 +1,4 @@
-/* @font-face {
+@font-face {
   font-family: 'Pixel Code';
   src: url('/fonts/PixelCode-Medium.ttf') format('truetype');
   font-display: swap;
@@ -15,15 +15,15 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--theme-font-heading);
-} */
+}
 
-[data-theme="dark"] {
+/* [data-theme="dark"] {
   --theme-background: #a43535;
   --theme-on-background: #eceff4;
   --theme-primary: #88c0d0;
   --theme-secondary: #5e81ac;
   --theme-muted: #4c566a;
-}
+} */
 
 /* Custom margin for resume-biography-3 block */
 .wide-margin {
